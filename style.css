@@ -15,22 +15,17 @@ body {
 .box {
     background-color: #fff;
     width: 300px;
-    padding: 10px;    
+    padding: 20px;    
     top: 50%;
     left: 50%;
     text-align: center;
     position: absolute;
     transform: translate(-50%,-50%);
-
-    
-    
-
     border-radius: 15px;
 }
 
 img {
-    width: 85%;
-    padding: 20px;
+    width: 100%;
     border-radius: 30px;
 }
 
